@@ -65,11 +65,6 @@ I also have strong full-stack development skills, building dynamic web applicati
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzamSaif47&theme=default" alt="GitHub Contribution Overview" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamSaif47&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-
 ---
 
 ## **Languages**
