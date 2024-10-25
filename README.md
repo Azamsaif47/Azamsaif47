@@ -54,15 +54,15 @@ I also have strong full-stack development skills, building dynamic web applicati
 ## **Contribution Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzamSaif58757&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AzamSaif47&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzamSaif58757&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzamSaif47&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzamSaif58757&theme=radical" alt="GitHub Contribution Overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzamSaif47&theme=radical" alt="GitHub Contribution Overview" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ I also have strong full-stack development skills, building dynamic web applicati
 ## **Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamSaif58757&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamSaif47&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
