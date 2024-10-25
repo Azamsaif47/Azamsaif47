@@ -2,7 +2,7 @@
 
 **AI & Machine Learning Engineer | Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-url) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](your-github-url) ![Profile Views](https://komarev.com/ghpvc/?username=AzamSaif58757&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/azam-saif-6361a7180/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Azamsaif47) ![Profile Views](https://komarev.com/ghpvc/?username=AzamSaif47&style=flat-square)
 
 ---
 
@@ -76,7 +76,7 @@ I also have strong full-stack development skills, building dynamic web applicati
 ## **Get In Touch**
 
 - **Email**: azamsaif58757@gmail.com
-- **LinkedIn**: [Azam Saif](your-linkedin-url)
+- **LinkedIn**: [Azam Saif](https://www.linkedin.com/in/azam-saif-6361a7180/)
 
 ---
 
